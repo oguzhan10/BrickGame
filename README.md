@@ -1,2 +1,0 @@
-# BrickGame
-Created with CodeSandbox
